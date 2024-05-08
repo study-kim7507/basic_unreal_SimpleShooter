@@ -61,5 +61,6 @@ https://github.com/study-kim7507/basic_unreal_SimpleShooter/assets/63442832/e61c
 ## 플랜
 1. "좀비 아포칼립스 세상에서 몰려오는 좀비로부터 다양한 장비를 사용하여 오래 생존하는 게임"이라는 아이디어를 바탕으로 한 게임 제작
 2. 더욱 섬세한 행동을 하도록 강화학습을 이용한 캐릭터 구현, 더 나은 FPS 게임 제작 (2024. 03 ~ 현재)
+   - [RL_SimpleShooter](https://github.com/study-kim7507/RL_SimpleShooter)
 
 
